@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+#memberList{
+    border: solid 1px black;
+    width:50%;margin: 0 auto;
+}
+.memberUl{
+    background-color: rgba(35, 215, 203, 0.2);
+}

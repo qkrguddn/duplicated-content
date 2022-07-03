@@ -1,0 +1,19 @@
+#menuList{
+    height: 70px;
+}
+#menuAppend{
+    float: right; 
+    list-style-type: none;  
+}
+#menuAppend li {
+    float: left; 
+    margin-right: 10px; 
+}
+li a {
+    color: gray;
+    text-decoration: none;
+} 
+.menuSelected{
+    color: black; 
+    font-weight: 600;
+}
