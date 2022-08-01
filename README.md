@@ -1,5 +1,5 @@
 # duplicated-content
-### 학부연구생- 교수님 논문의 Research field, Type의 중복된 내용 보이기
+### 학부연구생- 논문 Research field, Type에 따라 중복된 내용 보이기
 ### js를 이용한 기본 SPA 
 
 publication의 기능은 연구분야와 타입의 공통적인 내용만 조회하도록 함.
